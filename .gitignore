@@ -5,3 +5,4 @@ config/database.yml
 db/schema.rb
 tmp/**/*
 .sass-cache/
+.env
